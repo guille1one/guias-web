@@ -13,7 +13,6 @@ El objetivo es proporcionar contenido práctico y fácil de seguir para ayudarte
   * Descripción: Guía completa para configurar Nginx en Easypanel y alojar sitios web estáticos, incluyendo la correcta gestión de subdominios `www`.
 
   * ➡️ [Acceder a la guía](./easypanel-sitios-estaticos.md)
-    *(Nota: Esta guía complementa el video "Aloja Sitios Web Estáticos en Easypanel con Nginx")*
 
 * **Migrar WordPress a Easypanel**
 
