@@ -4,6 +4,8 @@ Esta guía te enseñará a instalar el panel de control **EasyPanel** en tu prop
 
 El objetivo es tener una base sólida para gestionar todas tus aplicaciones auto-alojadas (self-hosted) de forma sencilla y profesional.
 
+Por: Guillermo Gutiérrez [https://www.linkedin.com/in/ggd79/](https://www.linkedin.com/in/ggd79/)
+
 ### **Requisitos Previos**
 
 * **Un servidor VPS** con una versión reciente de Ubuntu.
