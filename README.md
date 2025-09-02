@@ -8,6 +8,9 @@ El objetivo es proporcionar contenido práctico y fácil de seguir para ayudarte
 
 ### Easypanel
 
+* **Instalar EasyPanel con un Dominio Personalizado + Subdominio n8n**
+  * ➡️ [Acceder a la guía](./instalacion-easypanel-subdominio-cloudflare.md)
+
 * **Sitios Web Estáticos en Easypanel**
 
   * Descripción: Guía completa para configurar Nginx en Easypanel y alojar sitios web estáticos, incluyendo la correcta gestión de subdominios `www`.
