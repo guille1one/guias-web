@@ -44,7 +44,7 @@ Ahora, le diremos a Cloudflare que el subdominio `panel.tudominio.com` debe apun
     * Ve a **SSL/TLS > Visión General**.
     * Selecciona el modo **"Completo (estricto)"** para la máxima seguridad.
 
-![cloudflare](https://github.com/guille1one/guias-web/blob/main/img/cloudflare_ssl.png?raw=true)
+![cloudflare](https://github.com/guille1one/guias-web/blob/main/img/cloudflare_ssl.webp?raw=true)
 
 ---
 
