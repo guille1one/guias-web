@@ -6,10 +6,13 @@ El objetivo es proporcionar contenido práctico y fácil de seguir para ayudarte
 
 ## Índice de Guías
 
-### Easypanel
+### Easypanel + Cloudflare
 
 * **Instalar EasyPanel con un Dominio Personalizado + Subdominio n8n**
   * ➡️ [Acceder a la guía](./instalacion-easypanel-subdominio-cloudflare.md)
+ 
+* **Incrementa la seguridad Cloudflare Zero Trust en EasyPanel**
+  * ➡️ [Acceder a la guía](./guia-cloudflare-easypanel-tunel.md)
 
 * **Sitios Web Estáticos en Easypanel**
 
