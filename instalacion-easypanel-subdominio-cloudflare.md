@@ -1,4 +1,4 @@
-# Guía: Cómo Instalar EasyPanel con un Dominio Personalizado
+# Guía: Cómo Instalar EasyPanel con un Dominio Personalizado + cloudflare
 
 Esta guía te enseñará a instalar el panel de control **EasyPanel** en tu propio servidor y a configurarlo para que sea accesible desde un subdominio personalizado y seguro, como `panel.tudominio.com`.
 
